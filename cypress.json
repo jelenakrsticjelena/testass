@@ -1,0 +1,5 @@
+{  "baseUrl": "https://coinmarketcap.com/",
+    "defaultCommandTimeout": 30000,
+    "pageLoadTimeout": 70000,
+    "requestTimeout": 70000
+}
