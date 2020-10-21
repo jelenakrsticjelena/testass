@@ -1,7 +1,7 @@
 describe('Top100 module', () => {
   
     before(() => {
-      cy.visit('/')
+      cy.visit('/?trtrytr')//start page with fake arguments
     });
 
     it('TC-1: Drop down choose option', () => {      
